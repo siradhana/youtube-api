@@ -1,6 +1,6 @@
-var channelId = 'UCimIdsDPn0mE03Cb7C6aR8Q';
-var key = 'API-Key';
-var playlistId = 'PL2fnLUTsNyq7A335zB_RpOzu7hEUcSJbB';
+var channelId = 'UCaO7pUtomquB-ZxHtOttjZw';
+var key = 'AIzaSyCeUMUqVOdCTIs0MdsrCwaLORZ_KRZcBxQ';
+var playlistId = 'PL9bw4S5ePsEEBcKscJQLvhIp5IaZqG-1P';
 var token = null;
 var firstVid = 'STwoa-9jxi0';
 
