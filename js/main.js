@@ -72,7 +72,7 @@ $(document).ready(function () {
             }
 
             $('main').append(`
-            <article id="item${i + 1}" class="item" data-key="${vid}">
+            <article onClick='window.location="#video"' id="item${i + 1}" class="item" data-key="${vid}">
                 <div class="thumb-container">
                     <img src="${thumb}" class="thumb">
                 </div>
